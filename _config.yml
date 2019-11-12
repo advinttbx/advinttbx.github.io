@@ -16,14 +16,14 @@
 title: Advanced Interfaces
 email: advancedinterfaces@case.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Advanced Interfaces hours of operation
-  Monday 3-7
-  Tuesday 3-7
-  Wednesday CLOSED
-  Thursday CLOSED
-  Friday 3-7
-  Saturday 3-7
-  Sunday 1-7
+  Advanced Interfaces hours of operation \n
+  Monday 3-7 \n
+  Tuesday 3-7 \n
+  Wednesday CLOSED \n
+  Thursday CLOSED \n
+  Friday 3-7 \n
+  Saturday 3-7 \n
+  Sunday 1-7 \n
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cwruthinkbox
